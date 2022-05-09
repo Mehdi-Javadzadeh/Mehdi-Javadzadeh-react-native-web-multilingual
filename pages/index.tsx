@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
   main: {
     width: '100%',
     backgroundColor: '#b3fcd1',
-    borderRadius: '25px',
+    borderRadius: 25,
   },
   textHolder: {
     textAlign: 'center',
